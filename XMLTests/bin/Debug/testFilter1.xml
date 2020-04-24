@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <disc disc_id="103" disc_name="Network" surname="Brown">
+    <gr_code>105</gr_code>
+    <st_num>25</st_num>
+    <lect_num>12</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>-</coursework>
+    <cu>з</cu>
+  </disc>
+</library>

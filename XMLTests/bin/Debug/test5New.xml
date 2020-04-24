@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <disc disc_id="101" disc_name="Bio" surname="Bronks">
+    <gr_code>102</gr_code>
+    <st_num>21</st_num>
+    <lect_num>15</lect_num>
+    <hours_num>15</hours_num>
+    <coursework>-</coursework>
+    <cu>э</cu>
+  </disc>
+  <disc disc_id="102" disc_name="English" surname="White">
+    <gr_code>104</gr_code>
+    <st_num>18</st_num>
+    <lect_num>17</lect_num>
+    <hours_num>18</hours_num>
+    <coursework>кр</coursework>
+    <cu>э</cu>
+  </disc>
+  <disc disc_id="103" disc_name="Network" surname="Brown">
+    <gr_code>105</gr_code>
+    <st_num>25</st_num>
+    <lect_num>12</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>-</coursework>
+    <cu>з</cu>
+  </disc>
+  <disc disc_id="200" disc_name="1" surname="1">
+    <gr_code>1</gr_code>
+    <st_num>1</st_num>
+    <lect_num>1</lect_num>
+    <hours_num>1</hours_num>
+    <coursework>1</coursework>
+    <cu>1</cu>
+  </disc>
+  <disc disc_id="201" disc_name="Math" surname="Blanch">
+    <gr_code>100</gr_code>
+    <st_num>18</st_num>
+    <lect_num>10</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>кр</coursework>
+    <cu>з</cu>
+  </disc>
+<disc disc_id="1005" disc_name="English" surname="Pyper">
+    <gr_code>120</gr_code>
+    <st_num>15</st_num>
+    <lect_num>10</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>кр</coursework>
+    <cu>з</cu>
+  </disc>
+</library>
