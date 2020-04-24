@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <disc disc_id="101" disc_name="Bio" surname="Bronks">
+    <gr_code>102</gr_code>
+    <st_num>21</st_num>
+    <lect_num>15</lect_num>
+    <hours_num>15</hours_num>
+    <coursework>-</coursework>
+    <cu>э</cu>
+  </disc>
+  <disc disc_id="101" disc_name="Bio" surname="Bronks">
+    <gr_code>102</gr_code>
+    <st_num>21</st_num>
+    <lect_num>15</lect_num>
+    <hours_num>15</hours_num>
+    <coursework>-</coursework>
+    <cu>э</cu>
+  </disc>
+  <disc disc_id="1001" disc_name="Eng" surname="Pyper">
+    <gr_code>120</gr_code>
+    <st_num>15</st_num>
+    <lect_num>10</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>кр</coursework>
+    <cu>з</cu>
+  </disc>
+<disc disc_id="1003" disc_name="Eng" surname="Pyper">
+    <gr_code>120</gr_code>
+    <st_num>15</st_num>
+    <lect_num>10</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>кр</coursework>
+    <cu>з</cu>
+  </disc>
+</library>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <disc disc_id="201" disc_name="Math" surname="Blanch">
+    <gr_code>100</gr_code>
+    <st_num>18</st_num>
+    <lect_num>10</lect_num>
+    <hours_num>12</hours_num>
+    <coursework>кр</coursework>
+    <cu>з</cu>
+  </disc>
+</library>
